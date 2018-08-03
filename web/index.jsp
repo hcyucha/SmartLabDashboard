@@ -122,6 +122,11 @@
 
                     </tr>
                     <tr>
+                        <td>Humidity</td>
+                        <td class="humidity"></td>
+
+                    </tr>
+                    <tr>
                         <td>Front Door</td>
                         <td class="frontDoor"></td>
 
